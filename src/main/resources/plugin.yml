@@ -3,4 +3,4 @@ version: '${version}'
 
 main: xyz.al3ncar.joinTheLeaveServer.JoinTheLeaveServer
 api-version: '1.21.11'
-load: POSTWORLD
+load: STARTUP

@@ -6,7 +6,6 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerQuitEvent;
 import xyz.al3ncar.joinTheLeaveServer.utils.MsgYml;
 
-
 public class onLeave implements Listener {
     private final MsgYml yml = new MsgYml();
 
